@@ -22,10 +22,17 @@ These tools are inspired by real-world telecom porting operations, including car
 
 python/ - Python scripts  
 vba/ - Excel VBA automation  
-sample_data/ - Sample data files  
 
 ## Future Improvements
 
 - Convert to web application (React + Node.js)
 - Add API integration
 - Implement CI/CD
+
+## VBA Automation
+
+The VBA scripts are exported as .bas files for better code visibility and version control.
+
+An Excel macro-enabled file (.xlsm) is included as a tool to run the automation.
+
+Sample data is stored separately in .xlsx format to demonstrate clean data handling.
